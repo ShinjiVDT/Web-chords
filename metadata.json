@@ -1,0 +1,5 @@
+{
+  "name": "Chord Web Explorer",
+  "description": "An interactive web application to visualize musical scales, chords, and harmonic relationships. Select a root note and a scale to see the diatonic chords arranged in a wheel. Click on any chord to explore potential modulations and get AI-powered progression suggestions.",
+  "requestFramePermissions": []
+}
